@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/106948202/185449834-00cc4cf2-9005-4a44-88e3-72a3f8c4f7b3.png)
 
 
+Demo link : https://budget-tracker-by-bijay.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
